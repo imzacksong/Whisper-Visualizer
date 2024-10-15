@@ -1,0 +1,11 @@
+openai-whisper==2023.5.12
+librosa==0.9.2
+numpy==1.24.3
+pygame==2.5.2
+Pillow==10.0.1
+tqdm==4.65.0
+ttkbootstrap==1.4.1
+imageio==2.32.1
+imageio-ffmpeg==0.4.7
+soundfile==0.12.1
+torch==2.0.1+cpu
