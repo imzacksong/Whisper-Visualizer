@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2041e700-be35-44c9-bf47-30afc553bc41)
+
+
 ## Features
 
 - **Audio Upload:** Easily select and upload various audio formats (e.g., WAV, MP3, M4A, FLAC, OGG, AAC).
